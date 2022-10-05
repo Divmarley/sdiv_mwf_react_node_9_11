@@ -1,0 +1,11 @@
+.card{
+ 
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin-right: 30px;
+    width: 300px;
+    /* margin: 100px auto 100px; */
+    padding: 45px;
+}
